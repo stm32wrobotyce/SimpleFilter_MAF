@@ -1,0 +1,3 @@
+../Core/Src/simple_filters.c:15:6:filter_moving_average_init	8	static
+../Core/Src/simple_filters.c:20:9:filter_moving_average	24	static
+../Core/Src/simple_filters.c:30:16:average	24	static
